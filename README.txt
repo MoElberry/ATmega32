@@ -1,5 +1,5 @@
 # ATmega32
-ATmega32 device drivers , applications , projects and examples
+ATmega32 device drivers , applications  , projects and examples
 AVR_Application: This file contains the device drivers for ATmega32 MCU.
 
 DataSheets: This file contains the datasheets of the used peripherals in the projects.
